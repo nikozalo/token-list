@@ -135,6 +135,30 @@
       "decimals": 18,
       "chainId": 42161,
       "logoURI": "https://safe-transaction-assets.safe.global/tokens/logos/0x940098b108fB7D0a7E374f6eDED7760787464609.png"
+    },
+    {
+      "symbol": "sUSDS",
+      "name": "Savings USDS",
+      "address": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://safe-transaction-assets.safe.global/tokens/logos/0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD.png"
+    },
+    {
+      "symbol": "sUSDS",
+      "name": "Savings USDS",
+      "address": "0x5875eEE11Cf8398102FdAd704C9E96607675467a",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://safe-transaction-assets.safe.global/tokens/logos/0x5875eEE11Cf8398102FdAd704C9E96607675467a.png"
+    },
+    {
+      "symbol": "sUSDS",
+      "name": "Savings USDS",
+      "address": "0xdDb46999F8891663a8F2828d25298f70416d7610",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://safe-transaction-assets.safe.global/tokens/logos/0xdDb46999F8891663a8F2828d25298f70416d7610.png"
     }
   ]
 }
